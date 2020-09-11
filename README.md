@@ -2,8 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeroen-van-veen/)
 [![Github Sponsors](https://img.shields.io/badge/GitHub_Sponsors-grey?style=flat&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/jvanveen)
-[![Mastodon](https://img.shields.io/mastodon/follow/197017?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue)]
-
+[![Mastodon](https://img.shields.io/mastodon/follow/197017?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue)
 
 **Personal Stuff:**
 
@@ -15,6 +14,7 @@
 - :seedling: I’m currently learning about Golang & Pion WebRTC
 - :neckbeard: Big fan of the Pinephone & Librem 5 projects
 
+<br/><br/>
 <p align="center">
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jvanveen&show_icons=true&hide_border=false&line_height=20&title_color=3b93b4&icon_color=3b93b4&show_owner=true"/>
   <p align="center">
