@@ -13,6 +13,7 @@
 - :computer: I currently work on [CA11](https://github.com/open-voip-alliance/ca11)
 - :loudspeaker: I’m looking to collaborate on [CA11](https://github.com/open-voip-alliance/ca11)
 - :seedling: I’m currently learning about Golang & Pion WebRTC
+- :neckbeard: Big fan of the Pinephone & Librem 5 projects
 
 <p align="center">
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jvanveen&show_icons=true&hide_border=false&line_height=20&title_color=3b93b4&icon_color=3b93b4&show_owner=true"/>
