@@ -1,28 +1,22 @@
-## Hi, I'm Jeroen van Veen, fullstack developer
+## Fullstack software-engineer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeroen-van-veen/)
 [![Github Sponsors](https://img.shields.io/badge/GitHub_Sponsors-grey?style=flat&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/jvanveen)
-[![Mastodon](https://img.shields.io/mastodon/follow/197017?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue)
+[![Mastodon](https://img.shields.io/mastodon/follow/197017?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue)](https://mastodon.social/web/accounts/197017)
 
-**Personal Stuff:**
+<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jvanveen&show_icons=true&hide_border=false&line_height=20&title_color=3b93b4&icon_color=3b93b4&show_owner=true"/>
+<p align="center">
+
+### Personal Stuff
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- :computer: I currently work on [CA11](https://github.com/open-voip-alliance/ca11)
-- :loudspeaker: I’m looking to collaborate on [CA11](https://github.com/open-voip-alliance/ca11)
-- :seedling: I’m currently learning about Golang & Pion WebRTC
-- :neckbeard: Big fan of the Pinephone & Librem 5 projects
+- :neckbeard: Big fan of Pinephone & Librem 5 projects
+- :computer: Works on a privacy-friendly [WebRTC phone](https://github.com/open-voip-alliance/ca11)
+- :seedling: Learns about Golang & Pion WebRTC
 
-<br/><br/>
-<p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jvanveen&show_icons=true&hide_border=false&line_height=20&title_color=3b93b4&icon_color=3b93b4&show_owner=true"/>
-  <p align="center">
-  </p>
-</p>
-
-
-<h3>Languages I use:</h3>
+### Languages I use
 
 ![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
@@ -35,7 +29,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
 
-<H3>Tools & technologies I have worked with:</h3>
+### Tools & technologies I have worked with
 
 ![Angular](https://img.shields.io/badge/-Angular-141414?style=flat&logo=angular)
 ![Blender](https://img.shields.io/badge/-Blender-141414?style=flat&logo=blender)
@@ -47,6 +41,7 @@
 ![Gimp](https://img.shields.io/badge/-Gimp-141414?style=flat&logo=gimp)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)
+![Gulp](https://img.shields.io/badge/-Gulp-141414?style=flat&logo=gulp)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-141414?style=flat&logo=kubernetes)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-141414?style=flat&logo=inkscape)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)
