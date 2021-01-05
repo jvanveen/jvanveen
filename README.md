@@ -4,13 +4,9 @@
 [![Github Sponsors](https://img.shields.io/badge/GitHub_Sponsors-grey?style=flat&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/jvanveen)
 [![Mastodon](https://img.shields.io/mastodon/follow/197017?domain=https%3A%2F%2Fmastodon.social&style=flat&logo=Mastodon&logoColor=blue)](https://mastodon.social/web/accounts/197017)
 
-<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jvanveen&show_icons=true&hide_border=false&line_height=20&title_color=3b93b4&icon_color=3b93b4&show_owner=true"/>
 <p align="center">
 
 ### Personal Stuff
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - :neckbeard: Big fan of Pinephone & Librem 5 projects
 - :seedling: Learns about Golang & Pion WebRTC
