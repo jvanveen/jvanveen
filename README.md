@@ -13,7 +13,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - :neckbeard: Big fan of Pinephone & Librem 5 projects
-- :computer: Works on a privacy-friendly [WebRTC phone](https://github.com/open-voip-alliance/ca11)
 - :seedling: Learns about Golang & Pion WebRTC
 
 ### Languages I use
