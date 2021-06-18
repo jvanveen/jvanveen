@@ -8,7 +8,7 @@
 
 ### Personal Stuff
 
-- :neckbeard: Big fan of Pinephone & Librem 5 projects
+- :neckbeard: Big fan of the Pinephone project
 - :seedling: Learns about Golang & Pion WebRTC
 
 ### Languages I use
